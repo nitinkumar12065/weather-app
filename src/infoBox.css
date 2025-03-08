@@ -1,0 +1,10 @@
+.InfoBox{
+    text-align: center;
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+.cardContentColor{
+    background-color:rgba(208, 16, 48, 0.385);
+}
